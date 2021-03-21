@@ -1,0 +1,29 @@
+h1{color: white;} 
+
+.website{
+
+background-color: plum;
+display : flex; 
+justify-content: space-between;
+}
+
+.text1{
+
+display : flex;
+justify-content:space-evenly;
+flex-wrap: wrap;
+}
+
+.socials{
+
+display : flex;
+justify-content: flex-end;
+}
+
+body{background-color : #f090a0 ;}
+
+p,h2{
+color:white;
+text-align: center;
+
+}
